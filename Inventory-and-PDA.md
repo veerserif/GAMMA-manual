@@ -2,9 +2,11 @@
 
 The inventory is a vital element of the game and you'll be staring at it a lot. Since progression in G.A.M.M.A. is largely dictated by the gear you have equipped, you will be staring a lot at the stuff you have - or don't.
 
+[<img src="https://github.com/cwylo/GAMMA-manual/blob/main/images/inventory.jpg" alt="A screenshot of the G.A.M.M.A. inventory." width=800px>](https://github.com/cwylo/GAMMA-manual/blob/main/images/inventory.jpg)
+
 ## Inventory-specific keybinds
 
-Certain keybinds function differently on the inventory screen. By holding down certain modifier keys and mousing over items, players can perform certain quick actions. These keys are marked as (on hover), meaning that they only work if players hover over an item then press that key.
+Certain keybinds function differently on the inventory screen. By holding down certain modifier keys and mousing over items, players can perform certain quick actions. These keys are marked as `(on hover)`, meaning that they only work if players hover over an item then press that key.
 
 | Key | Action |
 |---|---|
