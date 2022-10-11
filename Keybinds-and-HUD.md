@@ -32,7 +32,7 @@ All of these keybinds can be changed in `Settings > Controls > Keybinds`. Mouse 
 | 6 | Switch scope |
 | 7 | Switch silencer | 
 | 8 | Geiger counter |
-| F1-F4 | Item quick use (see inventory) |
+| F1-F4 | Item quick use [[(see inventory)|Inventory and PDA]] |
 | F5 | Quicksave |
 | F9 | Quickload |
 | R | Reload, unjam, close PDA |
@@ -87,10 +87,10 @@ This is disabled by default, but can be toggled on or off through the Mini Map T
 
 ## 2 Message log
 
-This can also be accessed through the "Messages" tab in the PDA. This is a scrolling feed of activities in the Zone, whether from other stalkers, or warnings and quest updates. Crucially, warnings to seek shelter or stay sheltered from psy-storms and emissions will be displayed here.
+This can also be accessed through the "Messages" tab in the [[PDA|Inventory and PDA]]. This is a scrolling feed of activities in the Zone, whether from other stalkers, or warnings and quest updates. Crucially, warnings to seek shelter or stay sheltered from psy-storms and emissions will be displayed here.
 
 ## 3 Body HUD
-The Body HUD is part of the [health system](Health). It displays the player's psy-health, regular health (the paper-doll of the whole body), limb health, radiation and stamina. It can be cycled through three presets: labelled, unlabelled and off. 
+The Body HUD is part of the [[health system|Health]]. It displays the player's psy-health, regular health (the paper-doll of the whole body), limb health, radiation and stamina. It can be cycled through three presets: labelled, unlabelled and off. 
 
 ## 4 Icons
 
@@ -100,4 +100,4 @@ G.A.M.M.A. uses Strogglet15's [Alternative Icons](https://www.moddb.com/mods/sta
 
 * **Status** icons are always in white with a bold shadow, with colored corners depending on severity. **If you can see any of them**, it is time to address that particular need - whether it is radiation, thirst, hunger, sleep or health.
 * **Buff** icons mean some kind of positive effect is happening. Buff icons are outlined in white with no fill. From left to right in order, they indicate health regen, bleed halting, lowering radiation, carry weight boost and stamina boost.
-* **Boosters** are temporary damage resistances. They are always displayed against a solid black shield. From left to right the pictured boosters are for radiation resistance, acid resistance, and psy-resistance. Other forms include bullet/rupture damage (torso icon), impact damage (brick wall), fire resistance (flame), and electricity resistance (lightning bolt). These correspond to the icons found in the [inventory screen](Inventory and PDA).
+* **Boosters** are temporary damage resistances. They are always displayed against a solid black shield. From left to right the pictured boosters are for radiation resistance, acid resistance, and psy-resistance. Other forms include bullet/rupture damage (torso icon), impact damage (brick wall), fire resistance (flame), and electricity resistance (lightning bolt). These correspond to the icons found in the [[inventory screen|Inventory and PDA]].
