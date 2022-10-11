@@ -48,7 +48,6 @@ All of these keybinds can be changed in `Settings > Controls > Keybinds`. Mouse 
 | I | Inventory |
 | K | Skills menu |
 | H | Cycle body health HUD |
-| / | Minimap toggle |
 | Home | Reshade menu | 
 | Esc | Game menu |
 | Numpad Enter| HUD toggle |
@@ -67,9 +66,10 @@ These can be changed in-game by going to the Mod Configuration Menu (MCM), and e
 
 | Key | Mod | Action |
 |---|---|---|
-| B | Weapon Tilt | Raise/tilt weapon |
 | Mouse 5 | Free Zoom | Zoom in |
+| / | Mini Map Toggle | Minimap toggle |
 | Z | Patches by Hotkey | Remove/add faction patch |
+| , | Weapon Tilt | Raise/tilt weapon (disabled by default) |
 | Shift + F | Ammo Check | Check ammo in current magazine |
 | Shift + F5 | YACS | Use Daddy Token (quicksave away from campfire) |
 
