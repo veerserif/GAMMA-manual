@@ -1,4 +1,4 @@
-== Contents ==
+# Contents
 
 1. [Introduction](intro)
     * What is G.A.M.M.A.?
