@@ -59,6 +59,8 @@ The body slot is for suits. If the equipped suit has available belt slots, they 
 
 The head slot is for helmets and respirators. These provide the majority of your radiation and psy resistance. Different models of masks will have different vision overlays, and may be cleaned if wet or otherwise dirty with the `T` key.
 
+The back slot is for backpacks. Backpacks increase your maximum carry weight. Better backpacks can be crafted, or bought as a last resort. Backpacks in your inventory can also be dropped to create a stash on demand.
+
 Weapons can be slotted into one of four slots: primary, secondary, melee or vision. Despite the names of the slots, pistols, certain SMGs and melee weapons and binoculars ("one handed weapons") can be equipped to any of the four slots. Guns that need two hands to wield can only be equipped in the primary or secondary weapon slot.
 
 The B6 slot corresponds to the `5` key by default, and is generally kept for bolts or spent shells. These can be thrown to trigger anomalies, enabling players to find safe routes through anomaly fields or trigger anomalies on purpose.
