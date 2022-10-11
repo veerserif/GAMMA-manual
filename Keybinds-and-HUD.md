@@ -32,7 +32,7 @@ All of these keybinds can be changed in `Settings > Controls > Keybinds`. Mouse 
 | 6 | Switch scope |
 | 7 | Switch silencer | 
 | 8 | Geiger counter |
-| F1-F4 | Item quick use [[(see inventory)|Inventory and PDA]] |
+| F1-F4 | Item quick use - [[see inventory|Inventory and PDA]] |
 | F5 | Quicksave |
 | F9 | Quickload |
 | R | Reload, unjam, close PDA |
