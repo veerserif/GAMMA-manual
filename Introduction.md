@@ -2,7 +2,7 @@ This page aims to explain what the modpack is, as well as what games it is built
 
 ## What is G.A.M.M.A. ?
 
-G.A.M.M.A., which stands for "Grok's Automated Modular Modpack for Anomaly", is a comprehensive modpack for the [S.T.A.L.K.E.R. Anomaly mod](https://www.moddb.com/mods/stalker-anomaly), created by Grok. Grok is a prolific modder of STALKER Anomaly, and this modpack aims to provide a repair- and crafting-focused style of play, requiring players to find and fix their own gear with the aim of providing a balanced, fair but lengthy challenge as they rise to the top of the Zone.
+[G.A.M.M.A.](https://github.com/Grokitach/Stalker_GAMMA), which stands for "Grok's Automated Modular Modpack for Anomaly", is a comprehensive modpack for the S.T.A.L.K.E.R. Anomaly mod, created by Grok. Grok is a prolific modder of STALKER Anomaly, and this modpack aims to provide a repair- and crafting-focused style of play, requiring players to find and fix their own gear with the aim of providing a balanced, fair but lengthy challenge as they rise to the top of the Zone.
 
 On the technical side, the G.A.M.M.A. modpack comes with a custom-written installer to smooth the process of downloading, installing, and tweaking the options for 330+ addons. Currently, only Windows is currently supported.
 
@@ -16,7 +16,7 @@ On the technical side, the G.A.M.M.A. modpack comes with a custom-written instal
 
 ## What is S.T.A.L.K.E.R. Anomaly?
 
-S.T.A.L.K.E.R. Anomaly is a standalone, free mod made by the [Anomaly team](https://www.dropbox.com/s/gu9x64qazkjh12c/Credits.pdf?dl=0) (link to credits PDF). It features several technical improvements on the base game engine, a map that combines the play-area of all three S.T.A.L.K.E.R. games into one, expanded multi-chapter main story quests, restored mutants and maps that were cut or not quite finished in the base games, a better companion system, visual overhauls, dynamic faction combat, inventory system overhauls, *and more*. In short, it's practically S.T.A.L.K.E.R. 1.5.
+[S.T.A.L.K.E.R. Anomaly](https://www.moddb.com/mods/stalker-anomaly) is a standalone, free mod made by the [Anomaly team](https://www.dropbox.com/s/gu9x64qazkjh12c/Credits.pdf?dl=0) (link to credits PDF). It features several technical improvements on the base game engine, a map that combines the play-area of all three S.T.A.L.K.E.R. games into one, expanded multi-chapter main story quests, restored mutants and maps that were cut or not quite finished in the base games, a better companion system, visual overhauls, dynamic faction combat, inventory system overhauls, *and more*. In short, it's practically S.T.A.L.K.E.R. 1.5.
 
 ## What are the S.T.A.L.K.E.R. games?
 
