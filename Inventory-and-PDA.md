@@ -19,6 +19,14 @@ Certain keybinds function differently on the inventory screen. By holding down c
 
 All items are displayed on the right hand pane. Individual items cannot be reordered, but they can be interacted with by either right-clicking them to open up an action menu, or double-clicking them to perform the default action (e.g. equipping gear, using toolkits).
 
+Usable items include consumables (meds, food, drinks, cigarettes), repair items, repair kits and maps or PDAs. Double-clicking them or selecting "Use" after right clicking will allow you to look at, consume, or open up the crafting menu depending on the chosen item.
+
+Some items can be stacked. Stacks of items can be selected and opened by left-clicking on them. The stack will be then displayed in the center pane, where resistances are normally shown. Some items that have "charges" or multiple uses can be combined together if in a stack - for example, you could combine two matchboxes that each have one use left to make one matchbox with two uses. Since item weight is dependent on the _number_ of items, and not the _number of uses_ of each item, combining items can be an effective way to save weight.
+
+Items can also be favourited through the right-click menu. A favourited item is pinned to the top of the inventory. It will also be pinned to the top of any trader's inventory, allowing you to view and buy favourited items more easily.
+
+Junk items are the inverse of favourited items. Items marked as "junk" are always sorted last and therefore declutter the rest of your inventory.
+
 ### Sorting
 
 Items are [sorted from top to bottom](https://www.moddb.com/mods/stalker-anomaly/addons/sorting-plus):
@@ -87,7 +95,9 @@ Acid, electrical and fire damage are caused by different kinds of anomalies. Spe
 * Fruit Punch, Gas and Gas Clouds cause acid damage.
 * Electro and Tesla anomalies cause electric damage.
 
-Impact damage comes from certain mutant attacks (anything that looks like a bodyslam, headbutt or charge), certain anomalies, and fall damage. Rupture damage comes from bullets, slashing attacks, and certain anomalies.
+Impact damage comes from certain mutant attacks (anything that looks like a bodyslam, headbutt or charge), certain anomalies, and fall damage. Think of it as similar to "blunt force trauma".
+
+Rupture damage comes from bullets, slashing attacks, and certain anomalies. For example, a boar's tusk swipe would do rupture damage. Any attack that looks like it would cut or draw blood should do rupture damage.
 
 
 
