@@ -1,5 +1,4 @@
-# Introduction
-_[back to index](readme)_
+This page aims to explain what the modpack is, as well as what games it is built on. It also includes a brief setting description for the world of the S.T.A.L.K.E.R. games.
 
 ## What is G.A.M.M.A. ?
 
