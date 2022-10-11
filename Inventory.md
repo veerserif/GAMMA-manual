@@ -1,0 +1,1 @@
+Your inventory is a key part of managing your gear and understanding it is important to learning to survive.
