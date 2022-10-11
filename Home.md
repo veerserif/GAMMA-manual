@@ -1,6 +1,6 @@
 # Contents
 
-1. [Introduction](intro)
+1. [Introduction](Introduction)
     * What is G.A.M.M.A.?
     * What is S.T.A.L.K.E.R. Anomaly?
     * What are the S.T.A.L.K.E.R. games?
