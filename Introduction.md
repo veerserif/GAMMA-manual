@@ -4,7 +4,7 @@ This page aims to explain what the modpack is, as well as what games it is built
 
 [G.A.M.M.A.](https://github.com/Grokitach/Stalker_GAMMA), which stands for "Grok's Automated Modular Modpack for Anomaly", is a comprehensive modpack for the S.T.A.L.K.E.R. Anomaly mod, created by Grok. Grok is a prolific modder of STALKER Anomaly, and this modpack aims to provide a repair- and crafting-focused style of play, requiring players to find and fix their own gear with the aim of providing a balanced, fair but lengthy challenge as they rise to the top of the Zone.
 
-On the technical side, the G.A.M.M.A. modpack comes with a custom-written installer to smooth the process of downloading, installing, and tweaking the options for 330+ addons. Currently, only Windows is currently supported.
+On the technical side, the G.A.M.M.A. modpack comes with a custom-written installer to smooth the process of downloading, installing, and tweaking the options for 330+ addons. This installer exists specifically to ensure the modders whose work makes this pack possible receive pageviews, download counts and other metrics that give them proper credit for their work. Currently, only Windows is currently supported.
 
 **G.A.M.M.A. is designed for players who are already familiar with S.T.A.L.K.E.R. Anomaly.** Much like that game, it has a minimal tutorial since it assumes players are already familiar with the basic gameplay systems of the S.T.A.L.K.E.R. games, as well as having some familiarity with the combined map. In terms of the setting, G.A.M.M.A. takes place after the ending of _Call of Pripyat_, the third S.T.A.L.K.E.R. game. Players play as a stalker who enters the Zone for the first time, and are free to pursue one of several main story quests or just play the game as a sandbox experience.
 
@@ -12,7 +12,12 @@ On the technical side, the G.A.M.M.A. modpack comes with a custom-written instal
 
 * No gun or armor trading. All suits and guns must be found by the player (from dead stalkers or in marked stashes), and players must use the game's crafting systems to fully repair them into working condition.
 * An artifact crafting system. Artifacts now lose condition as they are used, with more powerful artifacts naturally starting at low condition. Players must use the new "Artifact Melter" crafting item to melt down artifacts, which allows them to create or empower other artifacts.
-* 
+* No more free stash loot. Stashes must be marked on your PDA in order to have any kind of reward - these coordinates come from quests and doing tasks for other stalkers. Instead, hand-placed loot from randomized pools is scattered throughout the Zone to reward exploration, and provide plausible loot items that suit their locations.
+* A health system that incorporates location-based wounds, damage effects, and healing.
+* Changed crafting systems especially around cooking, making cooked mutant meat more beneficial while raw meat is more dangerous.
+* Expanded and curated weapons from multiple weapon packs, including Boomsticks and Sharpsticks.
+
+Every mod in the pack can be found on ModDB via Mod Organizer 2, so if players want to learn more they should read the individual mod's description on ModDB.
 
 ## What is S.T.A.L.K.E.R. Anomaly?
 
