@@ -4,7 +4,7 @@ This page addresses mod-specific keybinds, how to use your in-game PDA, and how 
 
 [<img src="https://cdn.discordapp.com/attachments/914216733810761798/936956601296883792/GAMMA_keymap.png" alt="An image showing keybinds for G.A.M.M.A. overlaid on a QWERTY keyboard." width="800"/>](https://cdn.discordapp.com/attachments/914216733810761798/936956601296883792/GAMMA_keymap.png)
 
-*Click through for full size. Image from Discord, #keybinds-in-gamma channel.*
+*Click through for full size. Image from Discord, #keybinds-in-gamma channel. Image from Jan 29, 2022 and may be out of date.*
 
 ## Anomaly/S.T.A.L.K.E.R. default binds
 All of these keybinds can be changed in `Settings > Controls > Keybinds`. Mouse scroll wheel cannot be bound.
@@ -58,6 +58,10 @@ All of these keybinds can be changed in `Settings > Controls > Keybinds`. Mouse 
 
 n.b. If the mod "G.A.M.M.A. Unjam Reload on the same key" is disabled, `R` is the default keybind for unjam while `F10` becomes the default reload key.
 
+### Movement and control specifics
+
+In the game, you are encourage to use cover by being able to crouch, low-crouch (similar to going prone in other games), and lean. Additionally, you can walk slowly by holding the Walk button while moving or crouching while moving - this allows players to engage in some level of stealth gameplay, avoiding detection or enabling stealthier kills. 
+
 ## Mod-specific keybinds
 These can be changed in-game by going to the Mod Configuration Menu (MCM), and either selecting the MCM Keybinds tab, or finding the specific mod and changing it through that menu.
 
@@ -73,5 +77,6 @@ Ammo Check requires both it and Mags Redux to be activated to work.
 
 # PDA
 
+
 # Heads-Up Display
-![GAMMA_keymap](https://user-images.githubusercontent.com/67430828/195202039-c774e67d-4c65-48d7-b230-fb933cac2fa3.png)
+
