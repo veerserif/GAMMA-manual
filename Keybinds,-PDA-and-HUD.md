@@ -48,10 +48,12 @@ All of these keybinds can be changed in `Settings > Controls > Keybinds`. Mouse 
 | I | Inventory |
 | K | Skills menu |
 | H | Cycle body health HUD |
+| / | Minimap toggle |
 | Home | Reshade menu | 
 | Esc | Game menu |
 | Numpad Enter| HUD toggle |
 | Numpad 0 (debug mode on) | Noclip toggle
+| ` | Open console |
 | F12 | Take screenshot |
 
 n.b. If the mod "G.A.M.M.A. Unjam Reload on the same key" is disabled, `R` is the default keybind for unjam while `F10` becomes the default reload key.
