@@ -41,4 +41,8 @@ This is a core feature of G.A.M.M.A.
 ---
 
 # Technical support section
-_tbd_
+
+## Known issues in G.A.M.M.A.
+
+* Upgrading binoculars either crashes your game or permanently turns on NVG effect, making them unusable in daytime. There is no rollback.
+* Enabling repair delay in Settings > Gameplay causes crashes. Broken in Anomaly as well.
