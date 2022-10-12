@@ -55,7 +55,7 @@ You can also quick-scroll to these categories by pressing the number keys or cli
 
 ## Equipment
 
-[<img src="https://github.com/cwylo/GAMMA-manual/blob/main/images/inventory/equip.jpg" alt="A close-up of the G.A.M.M.A. inventory's equipment section.">](https://github.com/cwylo/GAMMA-manual/blob/main/images/inventory/equip.jpg)
+[<img src="https://github.com/cwylo/GAMMA-manual/blob/main/images/inventory/equip.jpg" alt="A close-up of the G.A.M.M.A. inventory's equipment section." height=680px>](https://github.com/cwylo/GAMMA-manual/blob/main/images/inventory/equip.jpg)
 
 Equipped gear is displayed in the center pane. Each piece of equipped gear must fit in one of the visible slots, which only take certain types of items. 
 
