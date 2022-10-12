@@ -1,0 +1,1 @@
+Traders are an important part of the economy of the Zone. While they can't sell you weapons and armor any more, they will still provide you with all sorts of vital items and are a good source of useful information and quests throughout the game.
