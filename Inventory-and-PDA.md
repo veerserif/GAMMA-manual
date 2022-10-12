@@ -4,6 +4,8 @@ The inventory is a vital element of the game and you'll be staring at it a lot. 
 
 [<img src="https://github.com/cwylo/GAMMA-manual/blob/main/images/inventory.jpg" alt="A screenshot of the G.A.M.M.A. inventory." width=800px>](https://github.com/cwylo/GAMMA-manual/blob/main/images/inventory.jpg)
 
+The inventory displays your stalker's name, current faction, rank, amount of money (in rubles &#x20bd;), max carry weight, and all the items currently on you. It also displays currently-equipped items, resistances to damage, and the state of your health, hunger, thirst and tiredness meters. It is also the central place from which you can interact with items and access the crafting interface in G.A.M.M.A.
+
 ## Inventory-specific keybinds
 
 Certain keybinds function differently on the inventory screen. By holding down certain modifier keys and mousing over items, players can perform certain quick actions. These keys are marked as `(on hover)`, meaning that they only work if players hover over an item then press that key.
@@ -101,14 +103,18 @@ Impact damage comes from certain mutant attacks (anything that looks like a body
 
 Rupture damage comes from bullets, slashing attacks, and certain anomalies. For example, a boar's tusk swipe would do rupture damage. Any attack that looks like it would cut or draw blood should do rupture damage.
 
-
-
 ## Hunger, health, thirst, tiredness meters
 
-## Related interfaces
+*See also [[Health and wellness]] page.*
 
-### Trade screen
+These are in the same pane as resistances. The health meter is the one with the heart icon, and can be increased by using certain medical items, most commonly medkits. Going to a medic NPC (found in certain faction bases) and paying them to heal you can also completely fix your health. Standing next to a campfire also provides a very small health regen effect.
 
-### Stashes
+Hunger is represented by the fork and spoon icon. Increase this by eating foods. Thirst is represented by the water drop, and can be increased with (non-alcoholic) drinks. Unlike other modern survival games, it is important to keep this full or close to full - even losing one or two bars out of five can already cause noticeable effects. A good rule of thumb is that if you can see the [[icon on your HUD|Keybinds-and-HUD#4-icons]], it's time to eat or drink.
+
+Similarly, tiredness is represented by the bed icon.
+
+## Trade and stash screens
+
+Both of these screens operate similarly to the inventory, with minor differences.
 
 # PDA
