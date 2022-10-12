@@ -55,7 +55,7 @@ You can also quick-scroll to these categories by pressing the number keys or cli
 
 ## Equipment
 
-[<img src="https://github.com/cwylo/GAMMA-manual/blob/main/images/inventory/equip.jpg" alt="A close-up of the G.A.M.M.A. inventory's equipment section." width=800px>](https://github.com/cwylo/GAMMA-manual/blob/main/images/inventory/equip.jpg)
+[<img src="https://github.com/cwylo/GAMMA-manual/blob/main/images/inventory/equip.jpg" alt="A close-up of the G.A.M.M.A. inventory's equipment section.">](https://github.com/cwylo/GAMMA-manual/blob/main/images/inventory/equip.jpg)
 
 Equipped gear is displayed in the center pane. Each piece of equipped gear must fit in one of the visible slots, which only take certain types of items. 
 
@@ -81,7 +81,7 @@ There are four quick-item slots, F1 to F4. By dragging items to these slots, pre
 
 ## Resistances and meters
 
-[<img src="https://github.com/cwylo/GAMMA-manual/blob/main/images/inventory/resistances.jpg" alt="A close-up of the G.A.M.M.A. inventory's resistances and meters section." width=800px>](https://github.com/cwylo/GAMMA-manual/blob/main/images/inventory/resistances.jpg)
+[<img src="https://github.com/cwylo/GAMMA-manual/blob/main/images/inventory/resistances.jpg" alt="A close-up of the G.A.M.M.A. inventory's resistances and meters section.">](https://github.com/cwylo/GAMMA-manual/blob/main/images/inventory/resistances.jpg)
 
 Underneath the equipment pane and belt slots are bars representing various resistances and meters. In G.A.M.M.A., much like base S.T.A.L.K.E.R., there are seven types of damage (left to right, top to bottom):
 
