@@ -24,4 +24,12 @@ There are three major categories of crafting gear: **tools**, **kits** and **par
 
 ## Armor repair
 
-### 
+### Repairing armor parts
+
+### Restoring suits and helmets
+
+## Upgrading equipment
+
+# Item crafting
+
+# Hideout furniture crafting
