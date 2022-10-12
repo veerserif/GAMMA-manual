@@ -8,4 +8,12 @@ G.A.M.M.A. uses the [Body Health System](https://www.moddb.com/mods/stalker-anom
 
 ## Limb damage
 
-G.A.M.M.A. 
+Right now, G.A.M.M.A. models damage to the head, torso, left and right arms, and left and right legs.
+
+Low head health produces disorienting visual effects: wobbling screens, fading in and out of blackness, and blurry vision. No head health leads to death.
+
+Low torso health reduces your carry capacity. No torso health leads to death.
+
+Low leg health reduces your movement speed, and trying to sprint will cause general health damage. No leg health in one or both leg stops you from being able to sprint.
+
+Low arm health causes your aim to wobble. No arm health in one arm stops you being able to effectively use two-handed weapons such as most guns, though you can still use pistols and knives. No arm health in both arms stops you from being able to hold a weapon, causing you to drop your equipped weapon.
