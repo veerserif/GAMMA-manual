@@ -29,3 +29,16 @@ Remember, the sequence of events is: **use a limb first-aid item > use an approp
 Not all post-heal items work on all body parts, so read the tooltip carefully before use.
 
 Alternatively, limbs can be healed by paying medics to completely heal you, or by going to sleep. Sleeping does not restore general health, only limb health.
+
+# Hunger and thirst
+
+You must also manage your hunger and thirst while you're in the Zone. Similar to other survival games, you must eat and drink appropriate items. Running low on thirst or hunger gradually damages you over time, and can result in death if you don't deal with the problem.
+
+Simply "use" consumable food or water items to fill up your bar. Remember that different foods and drinks will restore different amounts of your meters, and you may require more than one food item to completely fill up. Eating large, high-calorie foods also tends to increase your tiredness, so eating a big meal before you want to sleep can be a good idea.
+
+Food and drink produced outside of the Zone, such as canned food, MREs and bottled water, will not give you radiation when consuming them. Zone-produced food and drink, such as cooked mutant meat, will give some very slight radiation when eaten. Usually, this can be countered by drinking clean water, smoking cigarettes, or drinking vodka.
+
+# Tiredness
+
+# Radiation
+
