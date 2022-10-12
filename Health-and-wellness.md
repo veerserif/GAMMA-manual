@@ -40,5 +40,16 @@ Food and drink produced outside of the Zone, such as canned food, MREs and bottl
 
 # Tiredness
 
+Players slowly get tired over the course of the day. Many types of medicine also increase tiredness, so using medical items in quick succession will likely make you sleepy. Large meals and ingesting alcohol also make you more tired.
+
+Being sleepy is not necessarily a bad thing, especially early on before you have good ways to navigate night time. By default, if your stalker is not sleepy enough they cannot go to sleep. Being *very* tired increases the chances that you oversleep, and being only lightly tired increases the chances that you wake up earlier than intended.
+
+Players can use sleeping pills to increase their tiredness if they want to sleep immediately. To fight off tiredness, players can use glucose shots, caffeine pills, coffee or energy drinks to stay awake. Many of these stimulants also give buffs to stamina regen and carry weight.
+
 # Radiation
 
+Radiation works a little differently than hunger, thirst or tiredness. When standing in radiation patches, or if holding onto unshielded artifacts, players will slowly accumulate radiation. As radiation rises, you will start to lose health. External radiation in G.A.M.M.A. is more potent than in Anomaly, so make sure you have adequate radiation resistance especially before venturing to the more-irradiated north of the map.
+
+Radiation can be cured by using anti-radiation drugs, drinking vodka and purified water, sparkling water or beard tea, or by smoking cigarettes. Anti-radiation drugs tend to quickly cure many rads but incurs heavy hunger and tiredness penalties. Vodka and cigarettes work more slowly but the penalties are less steep than taking anti-rad drugs.
+
+> Vodka and cigarettes being able to slowly cure radiation poisoning in the base S.T.A.L.K.E.R. games probably comes from an old Soviet folk belief that [vodka or grain alcohol can cure or combat radiation poisoning](https://web.archive.org/web/20121026124958/https://www.slate.com/articles/news_and_politics/dispatches/features/2006/a_nuclear_family_vacation_in_russia/russia_strikes_back.html).
