@@ -15,8 +15,7 @@
 9. Guns, ammo, and ballistics
 10. Factions and faction relations
 
-***
-This wiki was first written by veerserif. Last updated 2022-10-11.
+---
 
 ## What is this?
 
@@ -30,6 +29,16 @@ It is intended as a companion to the Discord-based knowledge channels and to the
 The most up-to-date information about installation, mod features, development and other news will always be the official Discord server.
 
 https://discord.gg/stalker-gamma
+
+# Frequently Asked Questions
+
+**Q**: Do I need to buy any of the S.T.A.L.K.E.R. games to play G.A.M.M.A.? <br/>
+No, G.A.M.M.A. uses the Anomaly game, which is standalone and free. Although it's worth your time to play the old S.T.A.L.K.E.R. games anyway.
+
+**Q**: Why can't I buy or sell weapons or armor? <br/>
+This is a core feature of G.A.M.M.A.
+
+---
 
 # Technical support section
 _tbd_
