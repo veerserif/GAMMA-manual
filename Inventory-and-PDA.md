@@ -2,7 +2,7 @@
 
 The inventory is a vital element of the game and you'll be staring at it a lot. Since progression in G.A.M.M.A. is largely dictated by the gear you have equipped, you will be staring a lot at the stuff you have - or don't.
 
-[<img src="https://github.com/cwylo/GAMMA-manual/blob/main/images/inventory.jpg" alt="A screenshot of the G.A.M.M.A. inventory." width=800px>](https://github.com/cwylo/GAMMA-manual/blob/main/images/inventory.jpg)
+[<img src="https://github.com/cwylo/GAMMA-manual/blob/main/images/inventory/inventory.jpg" alt="A screenshot of the G.A.M.M.A. inventory." width=800px>](https://github.com/cwylo/GAMMA-manual/blob/main/images/inventory/inventory.jpg)
 
 The inventory displays your stalker's name, current faction, rank, amount of money (in rubles &#x20bd;), max carry weight, and all the items currently on you. It also displays currently-equipped items, resistances to damage, and the state of your health, hunger, thirst and tiredness meters. It is also the central place from which you can interact with items and access the crafting interface in G.A.M.M.A.
 
@@ -55,6 +55,8 @@ You can also quick-scroll to these categories by pressing the number keys or cli
 
 ## Equipment
 
+[<img src="https://github.com/cwylo/GAMMA-manual/blob/main/images/inventory/equip.jpg" alt="A close-up of the G.A.M.M.A. inventory's equipment section." width=800px>](https://github.com/cwylo/GAMMA-manual/blob/main/images/inventory/equip.jpg)
+
 Equipped gear is displayed in the center pane. Each piece of equipped gear must fit in one of the visible slots, which only take certain types of items. 
 
 The body slot is for suits. If the equipped suit has available belt slots, they will be displayed just above the resistances pane - in the above image, no belt slots are available, so there are lock icons on all five possible belt slots. Belt slots can be used to equip armor frames, ballistic plates, or artifacts that are in suitable wearable containers.
@@ -77,7 +79,9 @@ The PDA slot is only used to equip PDAs.
 
 There are four quick-item slots, F1 to F4. By dragging items to these slots, pressing the associated key will use that item. This is particularly helpful for healing items and other meds. A transparent icon means that there is nothing currently equipped to that slot. By default, F1 uses first-aid kits, F2 for bandages, F3 for army medkits and F4 for morphine.
 
-## Resistances
+## Resistances and meters
+
+[<img src="https://github.com/cwylo/GAMMA-manual/blob/main/images/inventory/resistances.jpg" alt="A close-up of the G.A.M.M.A. inventory's resistances and meters section." width=800px>](https://github.com/cwylo/GAMMA-manual/blob/main/images/inventory/resistances.jpg)
 
 Underneath the equipment pane and belt slots are bars representing various resistances and meters. In G.A.M.M.A., much like base S.T.A.L.K.E.R., there are seven types of damage (left to right, top to bottom):
 
@@ -103,11 +107,7 @@ Impact damage comes from certain mutant attacks (anything that looks like a body
 
 Rupture damage comes from bullets, slashing attacks, and certain anomalies. For example, a boar's tusk swipe would do rupture damage. Any attack that looks like it would cut or draw blood should do rupture damage.
 
-## Hunger, health, thirst, tiredness meters
-
-*See also [[Health and wellness]] page.*
-
-These are in the same pane as resistances. The health meter is the one with the heart icon, and can be increased by using certain medical items, most commonly medkits. Going to a medic NPC (found in certain faction bases) and paying them to heal you can also completely fix your health. Standing next to a campfire also provides a very small health regen effect.
+Hunger, health, thirst and tiredness meters are in the same pane as resistances. The health meter is the one with the heart icon, and can be increased by using certain medical items, most commonly medkits. Going to a medic NPC (found in certain faction bases) and paying them to heal you can also completely fix your health. Standing next to a campfire also provides a very small health regen effect.
 
 Hunger is represented by the fork and spoon icon. Increase this by eating foods. Thirst is represented by the water drop, and can be increased with (non-alcoholic) drinks. Unlike other modern survival games, it is important to keep this full or close to full - even losing one or two bars out of five can already cause noticeable effects. A good rule of thumb is that if you can see the [[icon on your HUD|Keybinds-and-HUD#4-icons]], it's time to eat or drink.
 
