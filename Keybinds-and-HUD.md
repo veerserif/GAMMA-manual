@@ -77,24 +77,29 @@ Ammo Check requires both it and Mags Redux to be activated to work.
 
 # Heads-Up Display
 
-[<img src="https://github.com/cwylo/GAMMA-manual/blob/main/images/hud-1-annotated.jpg" alt="Heads-up display for G.A.M.M.A., annotated for commentary." width="800"/>](https://github.com/cwylo/GAMMA-manual/blob/main/images/hud-1-annotated.jpg)
+[<img src="https://github.com/cwylo/GAMMA-manual/blob/main/images/hud-3-annotated.jpg" alt="Heads-up display for G.A.M.M.A., annotated for commentary." width="800"/>](https://github.com/cwylo/GAMMA-manual/blob/main/images/hud-3-annotated.jpg)
 
-The heads-up display consists of four main elements. 
+The heads-up display consists of a few main elements - click the above screenshot for a larger image. 
 
-## 1 Minimap
+**Minimap**: This is disabled by default, but can be toggled on or off through the Mini Map Toggle mod (default keybind: `/`). When on, it shows a minimap, which is always centered on the player and rotates depending on the direction the player is looking. There is a ring around the player showing compass directions, with N in green, E in yellow, S in red and W in blue. If available, a red arrow will point in the direction of the currently active task waypoint.
 
-This is disabled by default, but can be toggled on or off through the Mini Map Toggle mod (default keybind: `/`). When on, it shows a minimap, which is always centered on the player and rotates depending on the direction the player is looking. There is a ring around the player showing compass directions, with N in green, E in yellow, S in red and W in blue. If available, a red arrow will point in the direction of the currently active task waypoint.
+**Message log**: This can also be accessed through the "Messages" tab in the [[PDA]]. This is a scrolling feed of activities in the Zone, whether from other stalkers, or warnings and quest updates. Crucially, warnings to seek shelter or stay sheltered from psy-storms and emissions will be displayed here.
 
-## 2 Message log
+**Body HUD**: The Body HUD is part of the [[health system|Health and wellness]]. It displays the player's psy-health, regular health (the paper-doll of the whole body), limb health, radiation and stamina. It can be cycled through three presets: labelled, unlabelled and off. 
 
-This can also be accessed through the "Messages" tab in the [[PDA|Inventory and PDA]]. This is a scrolling feed of activities in the Zone, whether from other stalkers, or warnings and quest updates. Crucially, warnings to seek shelter or stay sheltered from psy-storms and emissions will be displayed here.
+This is where information about your currently-equipped weapon is also displayed. There is a letter on the left that denotes the firing mode (where applicable):
 
-## 3 Body HUD
-The Body HUD is part of the [[health system|Health]]. It displays the player's psy-health, regular health (the paper-doll of the whole body), limb health, radiation and stamina. It can be cycled through three presets: labelled, unlabelled and off. 
+* 1 for semi-auto
+* A for automatic
+* 2 for 2-shot burst, 3 for 3-shot burst etc.
 
-## 4 Icons
+The number on the right is the number of rounds left in your current magazine.
 
-G.A.M.M.A. uses Strogglet15's [Alternative Icons](https://www.moddb.com/mods/stalker-anomaly/addons/alticons). These icons inform players of current status effects. In order of low to high severity, icons will have a white, yellow or red border on them. Icons include:
+**Stalker IFF**: The currently-targeted stalker's name, faction and faction icon is displayed here. This is the __only__ way of seeing if a stalker is friendly, neutral or hostile from far away. Their hostility towards you depends on their [[faction relationship|Factions and reputation]] to you.
+
+**Companion icons**: An icon representing your current companions is displayed on the right of the screen. If the icon has a red overlay it means that companion is currently in combat. The number at the bottom is how far away the companion is from you, in meters.
+
+**Icons**: G.A.M.M.A. uses Strogglet15's [Alternative Icons](https://www.moddb.com/mods/stalker-anomaly/addons/alticons). These icons inform players of current status effects. In order of low to high severity, icons will have a white, yellow or red border on them. Icons include:
 
 [<img src="https://github.com/cwylo/GAMMA-manual/blob/main/images/alt-icons-2.jpg" alt="An image explaining Strogglet15's Alternative Icons pack, option 2.">](https://www.moddb.com/mods/stalker-anomaly/addons/alticons)
 
